@@ -97,7 +97,7 @@
    + [Упражнение 2](https://github.com/Evgen-Lug/forder-1/blob/main/forder%2019/ex.2)
 
 **2. [Указатели на структуры](https://github.com/Evgen-Lug/forder-1/tree/main/forder%2020)** 
-   + [Упражнение 1]()https://github.com/Evgen-Lug/forder-1/blob/main/forder%2020/ex.1
+   + [Упражнение 1](https://github.com/Evgen-Lug/forder-1/blob/main/forder%2020/ex.1)
 
 **3. [Перечисления](https://github.com/Evgen-Lug/forder-1/tree/main/forder%2021)**
    + [Упражнение 1](https://github.com/Evgen-Lug/forder-1/blob/main/forder%2021/ex.1)
